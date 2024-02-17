@@ -1,4 +1,6 @@
 # nomic-audio-text
+**Authors**: Arnav Jhaveri, Jeffrey Li, Thiti (Nob) Premrudeepreechacharn
+
 As a part of [Penn's Gen AI Hackathon](https://penngenai.xyz/), these codes use Nomic AI's Atlas tool to make audio and text data maps.
 
 Here is the visualization for the [Environmental Sounds Classification Dataset](https://huggingface.co/datasets/ashraq/esc50) using Nomic's Atlas tool, which the link to the map can be found [here](https://atlas.nomic.ai/data/tpremrud/environment-sound-9/map)
